@@ -53,7 +53,7 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods>
-                <pod name="TwilioVideo" spec="3.4.0"/>
+                <pod name="TwilioVideo" spec="~> 3.4.0"/>
             </pods>
         </podspec>
 
